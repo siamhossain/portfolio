@@ -254,8 +254,12 @@ ol.type li a:hover {
 	margin-bottom: 20px;
 	line-height: 24px;
 }
+#contact p a{
+	color: #666;
+}
 #contact .social {
 	margin-top: 40px;
+	margin-left: -20px;
 }
 #contact .social ul li {
 	display: inline-block;
